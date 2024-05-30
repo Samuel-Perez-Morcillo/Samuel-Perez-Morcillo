@@ -26,7 +26,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando una va
 ## 🔧 Proyectos Destacados
 
 ### [Proyecto 1](https://github.com/Samuel-Perez-Morcillo/Barking-client)
-- [BACKEND] (https://github.com/Samuel-Perez-Morcillo/Barking-server)
+- [BACKEND](https://github.com/Samuel-Perez-Morcillo/Barking-server)
 
 
 Barking, en este proyecto realizado junto con Cristina Ferreiro, Creamos una Web la cual permite a los usuarios añadir sus bares favoritos o 
