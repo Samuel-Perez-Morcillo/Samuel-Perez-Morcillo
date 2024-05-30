@@ -16,7 +16,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando una va
 - **Frontend**: JavaScript, React.js, HTML5, CSS, Bootstrap 
 - **Backend**: Node.js, Express, JSON, SQL,
 - **Bases de Datos**: MongoDB, MySQL
-- **Otros**: Git, Webpack, Jest, Mocha, Jazmine
+- **Otros**: Git, Jest, Mocha, Jazmine
 
 
 ## 🌐 Encuéntrame en
