@@ -36,7 +36,7 @@ de los Bares que ya estan añadidos.
 En este Proyecto usamos una base de datos muy sencillita generada a través de [JSON server] y en la parte del Front usamos [React, JavaScript, Css, Html]
 
 
-### [Iron Hack](https://github.com/Daniela-AB25/Project1-Ironhack-Game)
+### [IronFighter](https://github.com/Daniela-AB25/Project1-Ironhack-Game)
 Iron-Fighter, en este proyecto realizado junto con Daniela Astorga , aprendimos a realizar un videojuego con la manipulación del DOM.
 
 En este proyecto hemos utilizado [JavaScript, HTML, CSS]
