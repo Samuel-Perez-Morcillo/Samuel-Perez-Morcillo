@@ -25,7 +25,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando una va
 ## 🔧 Proyectos Destacados
 
 ### [Barking](https://github.com/Samuel-Perez-Morcillo/Barking-client)
-- [BACKEND](https://github.com/Samuel-Perez-Morcillo/Barking-server)
+- [Barking-Server](https://github.com/Samuel-Perez-Morcillo/Barking-server)
 
 
 Barking, en este proyecto realizado junto con [Cristina Ferreiro](https://github.com/cristinaferreiro), Creamos una Web la cual permite a los usuarios añadir sus bares favoritos o 
@@ -42,7 +42,7 @@ En este proyecto hemos utilizado [JavaScript, HTML, CSS]
 
 
 ### [TripBliss](https://github.com/CristinaColomoiets/random-experience-client)
-- [BACKEND](https://github.com/CristinaColomoiets/random-experience-server)
+- [TripBliss-Server](https://github.com/CristinaColomoiets/random-experience-server)
 
 TripBliss En este proyecto realizado junto con otros dos compañeros: [Cristina Colomoiets](https://github.com/CristinaColomoiets) y [Adrian Sobota](https://github.com/Sobdev), hemos desarrollado una web de viajes aleatorios, la cual cuenta con sistema de registros de usuarios
 y compra de paquetes(simulada).
