@@ -25,7 +25,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando una va
 
 ## 🔧 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/Samuel-Perez-Morcillo/Barking-client)
+### [Barking](https://github.com/Samuel-Perez-Morcillo/Barking-client)
 - [BACKEND](https://github.com/Samuel-Perez-Morcillo/Barking-server)
 
 
@@ -36,13 +36,13 @@ de los Bares que ya estan añadidos.
 En este Proyecto usamos una base de datos muy sencillita generada a través de [JSON server] y en la parte del Front usamos [React, JavaScript, Css, Html]
 
 
-### [Proyecto 2](https://github.com/Daniela-AB25/Project1-Ironhack-Game)
+### [Iron Hack](https://github.com/Daniela-AB25/Project1-Ironhack-Game)
 Iron-Fighter, en este proyecto realizado junto con Daniela Astorga , aprendimos a realizar un videojuego con la manipulación del DOM.
 
 En este proyecto hemos utilizado [JavaScript, HTML, CSS]
 
 
-### [Proyecto 3](https://github.com/CristinaColomoiets/random-experience-client)
+### [TripBliss](https://github.com/CristinaColomoiets/random-experience-client)
 - [BACKEND](https://github.com/CristinaColomoiets/random-experience-server)
 
 TripBliss En este proyecto realizado junto con otros dos compañeros, hemos desarrollado una web de viajes aleatorios, la cual cuenta con sistema de registros de usuarios
