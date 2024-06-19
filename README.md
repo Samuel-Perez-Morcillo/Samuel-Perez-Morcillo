@@ -57,4 +57,4 @@ En este proyecto hemos utilizado para la parte del BackEnd [MongoDB, Express] y 
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes. [¡No dudes en ponerte en contacto!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
+¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes. [¡No dudes en ponerte en contacto conmigo para lo que necesites!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
