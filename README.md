@@ -8,7 +8,7 @@ Me especializo en el desarrollo de aplicaciones web y móviles utilizando una va
 
 - 🎓 Graduado en IronHack y Móstoles Desarrollo.
 - 💼 Actualmente en Búsqueda de Trabajo y mejorando mis Habilidades Técnicas.
-- 📫 Puedes contactarme en samuelperez82pm@gmail.com.
+- 📫 Puedes contactarme en samuelperez82pm@gmail.com o a trvés de mi [Linkedin](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)  .
 
 ## 🚀 Habilidades
 
