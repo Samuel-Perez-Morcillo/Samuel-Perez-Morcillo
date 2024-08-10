@@ -1,60 +1,53 @@
-# ¡Hola! Soy Samuel Pérez 👋📌
+# Hello! I'm Samuel Pérez 👋📌
 
-Soy un **Desarrollador Full Stack** apasionado por crear soluciones innovadoras y eficientes. 
-Especializado en el desarrollo de aplicaciones web y móviles utilizando una variedad de tecnologías modernas.
+I am a **Full Stack Developer** passionate about creating innovative and efficient solutions. 
+I specialize in developing web and mobile applications using a variety of modern technologies.
 
+## 🌟 About Me
 
-## 🌟 Sobre mí
+- 🎓 Graduated from IronHack and Móstoles Desarrollo.
+- 💼 Currently Seeking Employment and Improving My Technical Skills.
+- 📫 You can contact me at samuelperez82pm@gmail.com or via my [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/).
 
-- 🎓 Graduado en IronHack y Móstoles Desarrollo.
-- 💼 Actualmente en Búsqueda de Trabajo y mejorando mis Habilidades Técnicas.
-- 📫 Puedes contactarme en samuelperez82pm@gmail.com o a través de mi [Linkedin](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)  .
-
-## 🚀 Habilidades
+## 🚀 Skills
 
 - **Frontend**: JavaScript, React.js, HTML5, CSS, Bootstrap 
-- **Backend**: Node.js, Express, JSON, SQL,
-- **Bases de Datos**: MongoDB, MySQL
-- **Otros**: Git, Jest, Mocha, Jazmine
+- **Backend**: Node.js, Express, JSON, SQL
+- **Databases**: MongoDB, MySQL
+- **Others**: Git, Jest, Mocha, Jasmine
 
-
-## 🌐 Encuéntrame en
+## 🌐 Find Me On
 
 - [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
 
-## 🔧 Proyectos Destacados
+## 🔧 Featured Projects
 
 ### [Barking](https://github.com/Samuel-Perez-Morcillo/Barking-client)
 - [Barking-Server](https://github.com/Samuel-Perez-Morcillo/Barking-server)
 
+Barking is a project created together with [Cristina Ferreiro](https://github.com/cristinaferreiro). We developed a web application that allows users to add their favorite bars or 
+view those added by the community, all with precise location integration via Google Maps. Additionally, users can leave comments on the bars that are already listed.
 
-Barking, en este proyecto realizado junto con [Cristina Ferreiro](https://github.com/cristinaferreiro), Creamos una Web la cual permite a los usuarios añadir sus bares favoritos o 
-ver los añadidos por la comunidad, todo esto de una forma muy exacta ya que esta integrado google Maps; Además permite hacer comentarios acerca 
-de los Bares que ya estan añadidos.
-
-En este Proyecto usamos una base de datos muy sencillita generada a través de [JSON server] y en la parte del Front usamos [React, JavaScript, Css, Html]
-
+In this project, we used a simple database generated through [JSON Server], and on the frontend, we utilized [React, JavaScript, CSS, HTML].
 
 ### [IronFighter](https://github.com/Daniela-AB25/Project1-Ironhack-Game)
-Iron-Fighter, en este proyecto realizado junto con [Daniela Astorga](https://github.com/Daniela-AB25) , aprendimos a realizar un videojuego con la manipulación del DOM.
+Iron-Fighter is a project created with [Daniela Astorga](https://github.com/Daniela-AB25), where we learned to create a video game by manipulating the DOM.
 
-En este proyecto hemos utilizado [JavaScript, HTML, CSS]
-
+In this project, we used [JavaScript, HTML, CSS].
 
 ### [TripBliss](https://github.com/CristinaColomoiets/random-experience-client)
 - [TripBliss-Server](https://github.com/CristinaColomoiets/random-experience-server)
 
-TripBliss En este proyecto realizado junto con otros dos compañeros: [Cristina Colomoiets](https://github.com/CristinaColomoiets) y [Adrian Sobota](https://github.com/Sobdev), hemos desarrollado una web de viajes aleatorios, la cual cuenta con sistema de registros de usuarios
-y compra de paquetes(simulada).
+TripBliss is a project developed with two other colleagues: [Cristina Colomoiets](https://github.com/CristinaColomoiets) and [Adrian Sobota](https://github.com/Sobdev). We created a web application for random travel experiences, featuring user registration and simulated package purchases.
 
-En este proyecto hemos utilizado para la parte del BackEnd [MongoDB, Express] y en la parte del FrontEnd [JavaScript, React]
+In this project, we used [MongoDB, Express] for the backend and [JavaScript, React] for the frontend.
 
-
-## 📚 Prácticas y Aprendizajes
+## 📚 Education and Learning
 
 - IronHack Spain (Web Development Bootcamp)
-- Mostoles Desarrollo (Lenguajes Estructurados de Aplicaciones de Gestión )
+- Móstoles Desarrollo (Structured Languages for Management Applications)
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones interesantes. [¡No dudes en ponerte en contacto conmigo para lo que necesites!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
+Thank you for visiting my profile! I am always open to new opportunities and interesting collaborations. [Feel free to reach out to me for anything you need!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
+
