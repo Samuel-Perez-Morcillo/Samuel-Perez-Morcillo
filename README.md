@@ -3,21 +3,28 @@
 I am a **Full Stack Developer** passionate about creating innovative and efficient solutions. 
 I specialize in developing web and mobile applications using a variety of modern technologies.
 
-## 🌟 About Me
+## Table of Contents
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Find Me On](#-find-me-on)
+- [Featured Projects](#-featured-projects)
+  - [Barking](#barking)
+  - [IronFighter](#ironfighter)
+  - [TripBliss](#tripbliss)
+- [Education and Learning](#-education-and-learning)
 
+## 🌟 About Me
 - 🎓 Graduated from IronHack and Móstoles Desarrollo.
 - 💼 Currently Seeking Employment and Improving My Technical Skills.
 - 📫 You can contact me at samuelperez82pm@gmail.com or via my [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/).
 
 ## 🚀 Skills
-
 - **Frontend**: JavaScript, React.js, HTML5, CSS, Bootstrap 
 - **Backend**: Node.js, Express, JSON, SQL
 - **Databases**: MongoDB, MySQL
 - **Others**: Git, Jest, Mocha, Jasmine
 
 ## 🌐 Find Me On
-
 - [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
 
 ## 🔧 Featured Projects
@@ -43,11 +50,9 @@ TripBliss is a project developed with two other colleagues: [Cristina Colomoiets
 In this project, we used [MongoDB, Express] for the backend and [JavaScript, React] for the frontend.
 
 ## 📚 Education and Learning
-
 - IronHack Spain (Web Development Bootcamp)
 - Móstoles Desarrollo (Structured Languages for Management Applications)
 
 ---
 
 Thank you for visiting my profile! I am always open to new opportunities and interesting collaborations. [Feel free to reach out to me for anything you need!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
-
