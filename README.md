@@ -1,4 +1,6 @@
-# Hello! I'm Samuel Pérez 👋
+# <p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Perez-Morcillo/mi-repo/main/animated-intro.svg" alt="Hi, I'm Samuel Pérez - Full Stack Developer">
+</p>
 
 I am a **Full Stack Developer** passionate about creating innovative and efficient solutions. 
 I specialize in developing web and mobile applications using a variety of modern technologies.
