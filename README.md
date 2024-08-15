@@ -5,7 +5,7 @@
 ## 🌟 About Me
 🎓 Graduated from IronHack and Móstoles Desarrollo.  
 💼 Currently Seeking Employment and Improving My Technical Skills.  
-📫 You can contact me at **samuelperez82pm@gmail.com** or via my [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/).
+📫 You can contact me at **samuelperez82pm@gmail.com** or via my [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/).
 
 ## 🚀 Skills
 
