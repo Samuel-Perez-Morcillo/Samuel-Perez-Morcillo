@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 
 ## 🌐 Find Me On
-- [LinkedIn](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/)
 
 ## 🔧 Featured Projects
 
