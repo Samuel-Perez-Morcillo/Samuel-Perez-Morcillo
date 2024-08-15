@@ -38,4 +38,4 @@
 
 ---
 
-Thank you for visiting my profile! I am always open to new opportunities and interesting collaborations. [Feel free to reach out to me for anything you need!](https://www.linkedin.com/in/samuel-p%C3%A9rez-076553292/)
+Thank you for visiting my profile! I am always open to new opportunities and interesting collaborations. [Feel free to reach out to me for anything you need!](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/)
