@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://github.com/Samuel-Perez-Morcillo/animated_General_Readme/blob/main/animated-intro.svg" alt="Hi, I'm Samuel Pérez - Full Stack Developer">
+  <img src="https://github.com/Samuel-Perez-Morcillo/animated_General_Readme/blob/main/animated-intro.svg" alt="I'm Samuel Pérez - Full Stack Developer">
 </p>
 
 ## 🌟 About Me
