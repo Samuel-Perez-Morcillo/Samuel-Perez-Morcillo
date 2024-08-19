@@ -3,7 +3,7 @@
 </p>
 
 ## 🌟 About Me
-🎓 Graduated from IronHack and Móstoles Desarrollo.  
+🎓 Graduated from "IronHack" and "Móstoles Desarrollo".  
 💼 Currently Seeking Employment and Improving My Technical Skills.  
 📫 You can contact me at **samuelperez82pm@gmail.com** or via my [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/).
 
