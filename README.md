@@ -1,6 +1,8 @@
-# <p align="center">
-  <img src="https://github.com/Samuel-Perez-Morcillo/animated_General_Readme/blob/main/animated-intro.svg" alt="Samuel Pérez - Full Stack Developer">
-</p>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Samuel+Perez+Morcillo;Full+Stack+Web+Developer;Junior+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+
 
 ## 🌟 About Me
 🎓 Graduated from "IronHack" and "Móstoles Desarrollo".  
