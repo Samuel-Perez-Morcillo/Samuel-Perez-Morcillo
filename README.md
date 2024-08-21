@@ -1,12 +1,21 @@
 <h1 align="center">
-Hi, I'm Samuel Perez Morcillo!
-	<a href="https://github.com/Samuel-Perez-Morcillo" target="_self">
+Hi, I'm Samuel Pérez Morcillo!
+	<a href="https://github.com/samuel-perez-morcillo" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
-</hr>
-</br>
+</h1>
+
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/samuel-perez-morcillo">
+		<img src="https://komarev.com/ghpvc/?username=samuel-perez-morcillo&label=Profile%20views&color=0e75b6&style=flat" alt="samuel" />
+	</a>
+	<a href="https://github.com/samuel-perez-morcillo">
+		<img src="https://img.shields.io/github/followers/samuel-perez-morcillo?label=Followers" alt="samuel" />
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/samuel-perez-morcillo">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=400&height=45&color=FFFFFF&fontSize=28">
 	</a>
 </p>
