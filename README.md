@@ -22,6 +22,10 @@ Hi, I'm Samuel Pérez Morcillo!
 
 
 ## 🌟 About Me
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
 🎓 Graduated from "IronHack" and "Móstoles Desarrollo".  
 💼 Currently Seeking Employment and Improving My Technical Skills.  
 📫 You can contact me at **samuelperez82pm@gmail.com** or via my [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/).
