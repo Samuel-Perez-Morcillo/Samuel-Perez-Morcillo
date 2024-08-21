@@ -40,8 +40,16 @@ Hi, I'm Samuel Pérez Morcillo!
 ### Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 
-## 🌐 Find Me On
-- [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/)
+### 🌐 Find Me On:
+<br>
+<p align='center'>
+<a href="samuelperez82pm@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samuel-perez-morcillo-076553292/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+<br>
 
 ## 🔧 Featured Projects
 
