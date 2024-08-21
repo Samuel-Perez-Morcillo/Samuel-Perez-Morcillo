@@ -117,10 +117,10 @@ Hi, I'm Samuel Pérez Morcillo!
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samuel-perez-morcillo-076553292/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</p>
 <a href="https://github.com/" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>		
+</p>
 </br>
 
 ## 🔧 Featured Projects
