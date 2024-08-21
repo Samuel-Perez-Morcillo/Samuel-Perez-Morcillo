@@ -92,7 +92,7 @@ Hi, I'm Samuel Pérez Morcillo!
 
 
 
-![snake gif](https://github.com/samuel-perez-morcillo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/samuel-perez-morcillo/samuel-perez-morcillo/blob/output/github-contribution-grid-snake.svg)
 
 
 
