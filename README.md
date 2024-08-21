@@ -28,7 +28,7 @@ Hi, I'm Samuel Pérez Morcillo!
 
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
-
+</br>
 <!-- Programming Languages -->
 <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -101,9 +101,6 @@ Hi, I'm Samuel Pérez Morcillo!
 <!-- Testing Programs -->
 <a href="https://jasmine.github.io/" target="_blank">
   <img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white">
-</a>
-<a href="https://mochajs.org/" target="_blank">
-  <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
 </a>
 </div>
 
