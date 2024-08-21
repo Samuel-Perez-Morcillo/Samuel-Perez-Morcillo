@@ -30,7 +30,7 @@ Hi, I'm Samuel Pérez Morcillo!
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <!-- Programming Languages -->
-
+<div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
@@ -105,7 +105,7 @@ Hi, I'm Samuel Pérez Morcillo!
 <a href="https://mochajs.org/" target="_blank">
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
 </a>
-
+</div>
 
 ### 🌐 Find Me On:
 <br>
