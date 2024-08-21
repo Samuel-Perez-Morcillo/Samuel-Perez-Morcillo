@@ -58,11 +58,11 @@ Hi, I'm Samuel Pérez Morcillo!
 <a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
-<a href="https://lenguajehtml.com/" target="_blank">
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
-<a href="https://lenguajecss.com/" target="_blank">
-  <img alt="HTML" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
 <!-- Frontend Frameworks/Libraries -->
@@ -90,9 +90,14 @@ Hi, I'm Samuel Pérez Morcillo!
 
 <!-- Tools and Platforms -->
 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+</a>
 
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</a>
 
-![snake gif](https://github.com/samuel-perez-morcillo/samuel-perez-morcillo/blob/output/github-contribution-grid-snake.svg)
 
 
 
