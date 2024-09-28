@@ -126,8 +126,8 @@ Hello, I'm Samuel Pérez!!
 ## 🔧 Featured Projects
 
 | Project Name | Description | Technologies | Collaborators | LINK |
-| ------------ | ----------- | ------------ | ------------- |
-| [Barking](https://github.com/Samuel-Perez-Morcillo/Barking-client) | Web app to add and view favorite bars with location integration via Google Maps. Users can leave comments on listed bars. | JSON Server, React, JavaScript, CSS, HTML | [Cristina Ferreiro](https://github.com/cristinaferreiro) |
+| ------------ | ----------- | ------------ | ------------- | ------------- |
+| [Barking](https://github.com/Samuel-Perez-Morcillo/Barking-client) | Web app to add and view favorite bars with location integration via Google Maps. Users can leave comments on listed bars. | JSON Server, React, JavaScript, CSS, HTML | [Cristina Ferreiro](https://github.com/cristinaferreiro) | [Barking](https://barkingproject.netlify.app)
 | [IronFighter](https://github.com/Daniela-AB25/Project1-Ironhack-Game) | A video game created by manipulating the DOM. | JavaScript, HTML, CSS | [Daniela Astorga](https://github.com/Daniela-AB25) |
 | [TripBliss](https://github.com/CristinaColomoiets/random-experience-client) | Web app for random travel experiences with user registration and simulated package purchases. | MongoDB, Express, JavaScript, React | [Cristina Colomoiets](https://github.com/CristinaColomoiets), [Adrian Sobota](https://github.com/Sobdev) | [TripBliss](https://trip-bliss.netlify.app/)
 
