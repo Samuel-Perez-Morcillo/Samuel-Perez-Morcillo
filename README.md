@@ -29,7 +29,7 @@ Hello, I'm Samuel Pérez!
 - 🎓 Graduated from "IronHack" and "Móstoles Desarrollo".  
 - 💼 Currently Seeking Employment and Improving My Technical Skills.  
 - 📫 You can contact me at **samuelperez82pm@gmail.com** or via my [LinkedIn](https://www.linkedin.com/in/samuel-perez-morcillo-076553292/).
-- 📃 [Click Here to View My CV](https://drive.google.com/file/d/14RHb3Ep9bGS8v2I5jCb0OpHqI21QZ6vI/view?usp=sharing).
+- 📃 [Click Here to View My CV](https://drive.google.com/file/d/14RHb3Ep9bGS8v2I5jCb0OpHqI21QZ6vI/view?usp=drive_link).
 </br>
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
